@@ -1,0 +1,2 @@
+- 👋 Hi, I’m @CharilaosPetrakogiannis
+- 👀 I’m interested in data analysis and here you can find my projects
