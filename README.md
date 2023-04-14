@@ -1,2 +1,6 @@
 - 👋 Hi, I’m @CharilaosPetrakogiannis
-- 👀 I’m interested in data analysis and here you can find all of my projects
+- 👀 I’m interested in Data Science (mostly Data Analysis), SQL, Python, R, Statistics and Visualizations.
+- 🎓 I hold an undergraduate degree in economics and a master's degree in business analytics. Moreover, my native language is Greek, however I also speak fluent English and very good Spanish.
+- 💼 I am currently working at [EY Greece](https://www.linkedin.com/company/ernstandyoung/mycompany/verification/), in the Credit Risk Management department where I contribute to the creation and maintenance of predictive models aimed at quantifying credit risks, but also to the creation of model monitoring dashboards.
+- 💡 In my spare time I am a proud member of the [Dataphoria](https://www.linkedin.com/company/dataphoria/) team where I contribute as much as I can to topics related to the data & ESG industry.
+- 📫 How to reach me [(LinkedIn)](linkedin.com/in/charilaos-petrakogiannis-871770155)
